@@ -1,15 +1,6 @@
 1）绳子模拟
 
-使用pin函数固定绳子的第一个和第十个结点,初始时刻和一小段时间后的绳子状态如下图所示：
-
-![](images/1.png) <img src="images/2.png" style="zoom:55%;" />
-
-接下来绳子来回摆动，由于弹簧阻尼的影响，摆动幅度越来越小，最终绳子逐渐趋于稳定。
-
-<img src="images/3.png" style="zoom:67%;" /><img src="images/4.png" style="zoom:67%;" /><img src="images/5.png" style="zoom:67%;" />
- 解除第十个点的限制，仅保留一个点处于静止状态,绳子的收缩运动会相对比较明显。
-
-<img src="images/6.png" style="zoom:67%;" /><img src="images/7.png" style="zoom:67%;" /><img src="images/8.png" style="zoom:67%;" />
+略。
 
 2）布料模拟
 
